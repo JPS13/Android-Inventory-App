@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Inventory</string>
+
+    <!-- Empty database text -->
+    <string name="no_content">No Content To Display, Please Add Items</string>
+
+    <!-- Display Strings -->
+    <string name="item_description">Description</string>
+    <string name="item_price">Price</string>
+    <string name="dollar_symbol">$</string>
+    <string name="item_quantity">Quantity</string>
+    <string name="supplier_email">Supplier Email</string>
+    <string name="image_path">Image Path</string>
+
+    <!-- Button labels -->
+    <string name="add_button_label">add new product</string>
+    <string name="sale_button_label">sale</string>
+    <string name="delete_button_label">delete</string>
+    <string name="order_button_label">order more</string>
+    <string name="update_button_label">update</string>
+
+    <!-- Modify Quantity Strings -->
+    <string name="sold_items_label">Sold Items</string>
+    <string name="received_shipment_label">Received Shipment</string>
+    <string name="enter_quantity_label">Enter Quantity</string>
+    <string name="update_quantity_label">Update Quantity</string>
+    <string name="other_tasks_label">Other Tasks</string>
+    <string name="quantity_error_text">Please enter a valid quantity</string>
+
+    <!-- Delete confirmation strings -->
+    <string name="confirm_title">Delete Record</string>
+    <string name="prompt_text">Are you sure you want to delete this record?</string>
+    <string name="cancel_button_text">Cancel</string>
+
+    <!-- Add new product strings -->
+    <string name="add_product_title">Add New Product</string>
+    <string name="add_button_text">add</string>
+    <string name="description_hint">Add Description</string>
+    <string name="price_hint">Add Price</string>
+    <string name="quantity_hint">Add Quantity</string>
+    <string name="email_hint">Add Email</string>
+    <string name="image_hint">Add Image Location</string>
+
+</resources>
